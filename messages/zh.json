@@ -15,38 +15,38 @@
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "技能学习生成器",
+        "description": "轻松创建详细的学习方案。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "学习步骤",
+        "description": "使用强大的结构工具组织您的过程。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "细化编辑器",
+        "description": "精准编辑和完善详细过程。"
       },
       "aiTools": {
         "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "description": "利用AI驱动的建议提升学习效率。"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "作家",
+        "content": "HelloWay彻底改变了我的写作过程。技能学习生成器简直是一个革命性的工具！"
       },
       "testimonial2": {
         "name": "Michael Lee",
         "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "content": "HelloWay的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "钢琴家",
+        "content": "AI辅助工具帮助我无数次克服了困难。强烈推荐！"
       }
     },
     "Header": {
@@ -66,16 +66,16 @@
       "helpCenter": "帮助中心",
       "tutorials": "教程",
       "contact": "联系我们",
-      "email": "support@scriptcraft.com",
+      "email": "support@HelloWay.com",
       "address1": "123 编剧大道",
-      "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
+      "address2": "福州，中国 350002",
+      "cta": "今天开始您的学习之路",
       "startFreeTrial": "开始免费试用",
-      "copyright": "© 2023 ScriptCraft。保留所有权利。"
+      "copyright": "© 2024 HelloWay。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
-      "imageAlt": "ScriptCraft界面"
+      "title": "Hello on the Way，智慧随行此生",
+      "imageAlt": "HelloWay界面"
     }
   },
   "Dashboard": {
